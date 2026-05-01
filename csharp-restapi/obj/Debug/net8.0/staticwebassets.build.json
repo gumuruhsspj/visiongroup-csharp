@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ARupdsJSb4qA+6Eg52jnZXqIcSQ4Aus7q9jfqS2BJ74=",
+  "Source": "csharp-restapi",
+  "BasePath": "_content/csharp-restapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

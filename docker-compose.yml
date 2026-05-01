@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  rest-api:
+    build: ./csharp-restapi
+    ports:
+      - "5188:5188"
+  
+  websocket-chat:
+    build: ./csharp-websocket
+    ports:
+      - "5200:5200"

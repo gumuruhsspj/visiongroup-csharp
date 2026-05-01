@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WV4rcxzKT+luhZG6SC5pUC4fuTaddDy6hqvOet/J758=",
+  "Source": "csharp-websocket",
+  "BasePath": "_content/csharp-websocket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
