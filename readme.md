@@ -32,14 +32,3 @@ Once the containers are healthy, the services will be available at:
 | **WebSocket** | `./csharp-websocket` | `5200` | Manages real-time, bidirectional communication for chat features. |
 
 ---
-
-## 💡 Development Notes
-
-*   **Containerization:** Each service uses its own Dockerfile located within its respective subdirectory.
-*   **Port Conflicts:** Ensure ports `5188` and `5200` are free on your host machine before running the compose command.
-*   **Rebuilding:** If you modify the C# source code, use the `--build` flag to ensure changes are reflected in the images:
-    ```bash
-    docker-compose up --build
-    ```
-
----
